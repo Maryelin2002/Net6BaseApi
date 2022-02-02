@@ -10,4 +10,8 @@
     <Folder Include="IoC\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Net6BaseApi.Bl\Net6BaseApi.Bl.csproj" />
+  </ItemGroup>
+
 </Project>

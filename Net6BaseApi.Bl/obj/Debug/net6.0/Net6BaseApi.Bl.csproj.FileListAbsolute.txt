@@ -1,0 +1,15 @@
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\bin\Debug\net6.0\Net6BaseApi.Bl.deps.json
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\bin\Debug\net6.0\Net6BaseApi.Bl.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\bin\Debug\net6.0\ref\Net6BaseApi.Bl.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\bin\Debug\net6.0\Net6BaseApi.Bl.pdb
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\bin\Debug\net6.0\Net6BaseApi.Core.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\bin\Debug\net6.0\Net6BaseApi.Core.pdb
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\Net6BaseApi.Bl.csproj.AssemblyReference.cache
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\Net6BaseApi.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\Net6BaseApi.Bl.AssemblyInfoInputs.cache
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\Net6BaseApi.Bl.AssemblyInfo.cs
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\Net6BaseApi.Bl.csproj.CoreCompileInputs.cache
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\Net6BaseApi.Bl.csproj.CopyComplete
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\Net6BaseApi.Bl.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\ref\Net6BaseApi.Bl.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Bl\obj\Debug\net6.0\Net6BaseApi.Bl.pdb

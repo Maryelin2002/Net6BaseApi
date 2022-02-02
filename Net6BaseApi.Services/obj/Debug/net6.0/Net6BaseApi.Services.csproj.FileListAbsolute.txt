@@ -1,0 +1,11 @@
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\bin\Debug\net6.0\Net6BaseApi.Services.deps.json
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\bin\Debug\net6.0\Net6BaseApi.Services.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\bin\Debug\net6.0\ref\Net6BaseApi.Services.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\bin\Debug\net6.0\Net6BaseApi.Services.pdb
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\obj\Debug\net6.0\Net6BaseApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\obj\Debug\net6.0\Net6BaseApi.Services.AssemblyInfoInputs.cache
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\obj\Debug\net6.0\Net6BaseApi.Services.AssemblyInfo.cs
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\obj\Debug\net6.0\Net6BaseApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\obj\Debug\net6.0\Net6BaseApi.Services.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\obj\Debug\net6.0\ref\Net6BaseApi.Services.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Services\obj\Debug\net6.0\Net6BaseApi.Services.pdb

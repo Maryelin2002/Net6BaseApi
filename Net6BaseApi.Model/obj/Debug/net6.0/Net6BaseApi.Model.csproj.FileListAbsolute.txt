@@ -1,0 +1,15 @@
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\bin\Debug\net6.0\Net6BaseApi.Model.deps.json
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\bin\Debug\net6.0\Net6BaseApi.Model.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\bin\Debug\net6.0\ref\Net6BaseApi.Model.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\bin\Debug\net6.0\Net6BaseApi.Model.pdb
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\bin\Debug\net6.0\Net6BaseApi.Core.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\bin\Debug\net6.0\Net6BaseApi.Core.pdb
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\Net6BaseApi.Model.csproj.AssemblyReference.cache
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\Net6BaseApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\Net6BaseApi.Model.AssemblyInfoInputs.cache
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\Net6BaseApi.Model.AssemblyInfo.cs
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\Net6BaseApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\Net6BaseApi.Model.csproj.CopyComplete
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\Net6BaseApi.Model.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\ref\Net6BaseApi.Model.dll
+C:\Users\marye\source\repos\Maryelin2002\Net6BaseApi\Net6BaseApi.Model\obj\Debug\net6.0\Net6BaseApi.Model.pdb
