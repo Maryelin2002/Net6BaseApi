@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e3LTLHwn7vxdXqHVErUrp7O4X2IP+kXhqItrBC0p3GY=",
+  "Source": "Net6BaseApi",
+  "BasePath": "_content/Net6BaseApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

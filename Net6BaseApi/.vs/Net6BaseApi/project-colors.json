@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b464a628-7bb5-4d61-b1a0-560cba627124": {
+      "ProjectGuid": "b464a628-7bb5-4d61-b1a0-560cba627124",
+      "DisplayName": "Net6BaseApi",
+      "ColorIndex": 0
+    },
+    "a4f7635e-b0d0-4242-87b4-16dc1b1b0e14": {
+      "ProjectGuid": "a4f7635e-b0d0-4242-87b4-16dc1b1b0e14",
+      "DisplayName": "Net6BaseApi.Core",
+      "ColorIndex": 1
+    },
+    "7474cc7c-7ade-49b2-aab4-c2db6e9095ab": {
+      "ProjectGuid": "7474cc7c-7ade-49b2-aab4-c2db6e9095ab",
+      "DisplayName": "Net6BaseApi.Model",
+      "ColorIndex": 2
+    },
+    "25f4facf-6e46-4c53-820a-beb37b85d868": {
+      "ProjectGuid": "25f4facf-6e46-4c53-820a-beb37b85d868",
+      "DisplayName": "Net6BaseApi.Bl",
+      "ColorIndex": 3
+    },
+    "8344d461-1940-4daf-a6ff-98af5e843abe": {
+      "ProjectGuid": "8344d461-1940-4daf-a6ff-98af5e843abe",
+      "DisplayName": "Net6BaseApi.Services",
+      "ColorIndex": 4
+    },
+    "88ca9176-7a5e-4f7c-8523-5fc80c83fe4a": {
+      "ProjectGuid": "88ca9176-7a5e-4f7c-8523-5fc80c83fe4a",
+      "DisplayName": "Net6BaseApi.Services.Test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
