@@ -1,7 +1,13 @@
 ﻿namespace Net6BaseApi.Core.BaseModel
 {
-    public class BaseDto
+    public interface IBaseDto
     {
-
+        int? Id { get; set; }
+        bool Deleted { get; set; }
+    }
+    public class BaseDto : IBaseDto
+    {
+        public virtual int? Id { get; set; }
+        public virtual bool Deleted { get; set; }
     }
 }

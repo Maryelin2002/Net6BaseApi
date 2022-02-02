@@ -9,7 +9,14 @@
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="IoC\" />
-    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Net6BaseApi.Core\Net6BaseApi.Core.csproj" />
   </ItemGroup>
 
 </Project>
